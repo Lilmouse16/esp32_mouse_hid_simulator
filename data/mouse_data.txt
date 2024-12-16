@@ -1,0 +1,15 @@
+Sleep, 333
+Sleep, 6062
+Click, 792, 856 Left, Down
+Sleep, 16
+Click, 792, 856 Left, Up
+Click, 792, 856 Left, Down
+Sleep, 16
+Click, 792, 856 Left, Up
+Sleep, 3000
+Click, 1425, 961 Left, Down
+Sleep, 15
+Click, 1425, 961 Left, Up
+Sleep, 2578
+Click, 1421, 957 Left, Down
+Click, 1421, 957 Left, Up
